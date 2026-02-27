@@ -1,0 +1,21 @@
+{
+    "title": "Programming: For Loops",
+    "slug": "programming-for-loops-introduction",
+    "description": "Language-agnostic introduction to for loops, loop variables, and per-iteration execution flow.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming",
+        "pseudocode"
+    ],
+    "duration": 2,
+    "prerequisites": [
+        "programming-variables",
+        "programming-iterables-introduction"
+    ],
+    "related": [
+        "python-for-loops-over-iterables",
+        "python-loop-control"
+    ]
+}
