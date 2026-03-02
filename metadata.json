@@ -12,7 +12,7 @@
     "duration": 2,
     "prerequisites": [
         "programming-variables",
-        "programming-iterables-introduction"
+        "programming-iterables"
     ],
     "related": [
         "python-for-loops-over-iterables",
