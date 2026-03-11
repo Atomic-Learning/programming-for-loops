@@ -9,7 +9,7 @@
         "programming",
         "pseudocode"
     ],
-    "duration": 2,
+    "duration": 3,
     "prerequisites": [
         "programming-variables",
         "programming-iterables"
